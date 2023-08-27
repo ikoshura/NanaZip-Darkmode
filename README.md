@@ -6,6 +6,7 @@ I attempted to use the 7Zip Dark Mode created by Huan (https://github.com/huanre
 ![Screenshot 2023-08-28 004821](https://github.com/M2Team/NanaZip/assets/100127946/726ff543-1471-4ca1-a125-f4647f034558)
 
 The end result was that I achieved a 7Zip dark mode appearance, complete with the NanaZip icon and capability to display the menu in the Windows 11 Context Menu.
+*Toolbar icon by LeetPanda1337 : https://www.deviantart.com/leetpanda1337/art/7-Zip-Windows-11-theme-905947408
 
 Screenshot
 ----------
