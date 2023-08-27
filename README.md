@@ -10,9 +10,11 @@ The end result was that I achieved a 7Zip dark mode appearance, complete with th
 Screenshot
 ----------
 Without Menubar
+
 ![image](https://github.com/ikoshura/NanaZip-Dark-Mode/assets/100127946/9c1aed02-2ace-4587-80cc-a0bee8b89e40)
 
 With Menubar
+
 ![image](https://github.com/ikoshura/NanaZip-Dark-Mode/assets/100127946/0361b1dd-780d-451a-aad6-69bf36fa3262)
 
 Download
