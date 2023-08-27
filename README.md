@@ -6,3 +6,19 @@ I attempted to use the 7Zip Dark Mode created by Huan (https://github.com/huanre
 ![Screenshot 2023-08-28 004821](https://github.com/M2Team/NanaZip/assets/100127946/726ff543-1471-4ca1-a125-f4647f034558)
 
 The end result was that I achieved a 7Zip dark mode appearance, complete with the NanaZip icon and capability to display the menu in the Windows 11 Context Menu.
+
+Screenshot
+----------
+Without Menubar
+![image](https://github.com/ikoshura/NanaZip-Dark-Mode/assets/100127946/9c1aed02-2ace-4587-80cc-a0bee8b89e40)
+
+With Menubar
+![image](https://github.com/ikoshura/NanaZip-Dark-Mode/assets/100127946/0361b1dd-780d-451a-aad6-69bf36fa3262)
+
+Download
+----------
+
+Download the exe file from [Release](https://github.com/ikoshura/NanaZip-Dark-Mode/releases)
+
+This file can also be utilized for 7Zip; simply rename it and then replace the 7zFM.exe file.
+
