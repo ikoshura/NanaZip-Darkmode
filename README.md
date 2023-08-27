@@ -1,4 +1,4 @@
-# NanaZip Dark Mode
+# NanaZip/7Zip Dark Mode
 Forked from Huan 7Zip Dark Mode
 
 I attempted to use the 7Zip Dark Mode created by Huan (https://github.com/huanrenfeng/7zipDarkmode), made minor modifications using Resource Hacker to change both the app icon and toolbar icon, and also to hide the menubar since it couldn't apply the dark mode. Afterward, I replaced the NanaZip.exe file within the NanaZip msixbundle.
